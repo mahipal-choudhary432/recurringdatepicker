@@ -13,6 +13,28 @@ pnpm dev
 # or
 bun dev
 ```
+# Recurring Date Picker (Next.js + Tailwind)
+
+An advanced recurring date picker component, similar to Google Calendar/TickTick, built with **Next.js, Tailwind CSS, and React Calendar**.
+
+## Preview
+
+![Recurring Date Picker Screenshot](<img width="1032" height="935" alt="image" src="https://github.com/user-attachments/assets/a2823309-ced5-4f95-8e59-1c5b13bc4735" />
+)
+
+## Features
+- Daily, Weekly, Monthly, Yearly recurrence
+- Weekly day selection (e.g., Mon, Wed, Fri)
+- Monthly patterns (e.g., 2nd Tuesday of each month)
+- Start and optional end date
+- Interactive calendar preview
+- Styled with Tailwind CSS
+
+## Getting Started
+
+```bash
+npm install
+npm run dev
 
 Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
 
