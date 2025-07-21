@@ -1,7 +1,5 @@
 This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
-git add public/ss.png
-git commit -m "Add screenshot"
-git push
+ 
 
 ## Getting Started
 
@@ -21,9 +19,9 @@ bun dev
 An advanced recurring date picker component, similar to Google Calendar/TickTick, built with **Next.js, Tailwind CSS, and React Calendar**.
 
 ## Preview
-
-![Recurring Date Picker](./public/ss.png)
-recurring-date-picker/assets/ss.png
+Screenshot 
+![Recurring Date Picker](public/ss.png)
+ 
 ## Features
 - Daily, Weekly, Monthly, Yearly recurrence
 - Weekly day selection (e.g., Mon, Wed, Fri)
