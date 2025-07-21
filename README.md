@@ -20,7 +20,7 @@ An advanced recurring date picker component, similar to Google Calendar/TickTick
 
 ## Preview
 Screenshot 
-![Recurring Date Picker](public/ss.png)
+![Recurring Date Picker](C:\Users\DELL\Desktop\recurring-date-picker\recurring-date-picker\public\ss.png)
  
 ## Features
 - Daily, Weekly, Monthly, Yearly recurrence
