@@ -19,8 +19,7 @@ An advanced recurring date picker component, similar to Google Calendar/TickTick
 
 ## Preview
 
-![Recurring Date Picker Screenshot](<img width="1032" height="935" alt="image" src="https://github.com/user-attachments/assets/a2823309-ced5-4f95-8e59-1c5b13bc4735" />
-)
+![Recurring Date Picker](./public/ss.png)
 
 ## Features
 - Daily, Weekly, Monthly, Yearly recurrence
